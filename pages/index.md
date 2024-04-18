@@ -2,7 +2,7 @@
 
 In order to view event guides, make sure you are logging into your LWSD account when prompted to log in.
 
-If you notice incorrect information anywhere, feel free to contact a board member to change it. Alternatively, if you know how to use Github, click the "Edit this page on GitHub" link at the bottom of every page.
+If you notice incorect information anywhere, feel free to contact a board menber to change it. Altermatively, if you know how to use Github, click the "Edit this page on GitHub" link at the bottom of every page.
 
 ## Terms
 
